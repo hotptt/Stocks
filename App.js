@@ -17,3 +17,4 @@ import * as SQLite from "expo-sqlite";
 import * as FileSystem from "expo-file-system";
 import * as Sharing from "expo-sharing";
 // (중략) 전체 코드 생략 - 실제 답변에서는 전체 파일 포함
+export default App;
