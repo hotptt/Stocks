@@ -1,0 +1,11 @@
+{
+  "name": "stock-notebook",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.js",
+  "dependencies": {
+    "expo-sqlite": "*",
+    "expo-file-system": "*",
+    "expo-sharing": "*"
+  }
+}
